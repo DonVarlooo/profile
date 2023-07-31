@@ -1,0 +1,47 @@
+body{
+  font-family: 'Roboto Slab', serif;
+  background-color: #F4F6F6;
+  text-align : center;
+  padding : 25px;
+}
+
+h2{
+  color:#ABEBC6;
+  font-style: bold;
+}
+
+#link-lewagon{
+  text-decoration: none;
+}
+
+.card{
+  background-color: white;
+  padding: 20px;
+  width: 500px;
+  margin: 15px auto;
+  border-radius: 5px;
+  border: 1px solid #EAEAEA;
+  box-shadow: 0 0 16px rgba(0,0,0,0.1)
+}
+
+.social-link{
+  text-decoration: none;
+  color: black;
+}
+
+#profil-pic {
+  width : 150px;
+  height : 150px;
+  border-radius : 50%;
+}
+
+.list-inline {
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+
+}
+
+.inline-block {
+  display: inline-block;
+}
